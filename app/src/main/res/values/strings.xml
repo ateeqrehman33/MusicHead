@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicHead</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="enter_place_to_search">Enter place to search</string>
+    <string name="eg_london">Eg. London</string>
+    <string name="search">Search</string>
+</resources>
